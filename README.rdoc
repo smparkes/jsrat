@@ -5,7 +5,7 @@
 
 == Description
 
-JSRat lets you write intergration tests in JavaScript, a la Webrat and Capybara.
+A JavaScript framework for writing intergration tests, a la Webrat and Capybara.
 
 Not yet released.
 
